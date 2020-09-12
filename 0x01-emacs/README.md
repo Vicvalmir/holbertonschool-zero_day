@@ -1,1 +1,1 @@
-Opening Emacs
+Open Emacs
